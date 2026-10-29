@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+files/
+HF_Agent_course_Unit_4_Final_evaluation/
+.env
+test.ipynb
+test.py
+data/
+lib/
+alfred_chroma_db/
